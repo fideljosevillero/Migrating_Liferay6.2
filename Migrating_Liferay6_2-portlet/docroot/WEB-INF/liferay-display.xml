@@ -4,5 +4,6 @@
 <display>
 	<category name="category.sample">
 		<portlet id="Migrating_Liferay6_2" />
+		<portlet id="migrating_"></portlet>
 	</category>
 </display>
